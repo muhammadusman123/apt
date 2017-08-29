@@ -10,6 +10,7 @@ public class message {
 		message=b;
 		time=c;
 	}
+	//hlellelwkldejwodpjepojdeihjfiorhfiorhfoirhfiohroih
 	message(String a, String b)
 	{//Constructor 2
 		sender=a;
