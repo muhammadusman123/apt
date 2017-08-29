@@ -11,6 +11,7 @@ public class message {
 		time=c;
 	}
 	//hlellelwkldejwodpjepojdeihjfiorhfiorhfoirhfiohroih
+	//second revision
 	message(String a, String b)
 	{//Constructor 2
 		sender=a;
